@@ -138,7 +138,7 @@ Télécharger un graphique individuel :
 
 	   1. Cliquez sur le menu d'action des graphiques.
 	   2. Sélectionnez Télécharger.
-           3.Choisissez le format souhaité (par exemple, CSV ou PNG).
+        3.Choisissez le format souhaité (par exemple, CSV ou PNG).
 
   ![Image : Télécharger un graphique](img/telecharger_graphique.png)
 
@@ -147,7 +147,7 @@ Télécharger un tableau de bord complet :
 	   1. Cliquez sur le menu d'action du tableau de bord.
 	   2. Sélectionnez l'option Télécharger.
 	   3. Choisissez le format : PDF ou image JPEG.
-           4. Le fichier téléchargé contiendra l'intégralité du tableau de bord pour une consultation ou une utilisation ultérieure.
+        4. Le fichier téléchargé contiendra l'intégralité du tableau de bord pour une consultation ou une utilisation ultérieure.
 
   ![Image : Télécharger un tableau de bord](img/telecharger_dashboard.png)
 
@@ -156,13 +156,15 @@ Télécharger un tableau de bord complet :
 ### Gérer les rapports par e-mail :
 Superset offre la possibilité de configurer des rapports automatiques par e-mail via l'option Manage Email Report, qui se trouve dans le menu d'actions du tableau de bord. Cette fonctionnalité permet de programmer l'envoi régulier des tableaux de bord à des destinataires spécifiques.
 
-    1. Set up an email report
+ 1. Set up an email report
+    
 	        -Cliquez sur Manage email report dans le menu d'actions du tableau de bord.
 		-Choisissez l'option Set up an email report.
 
   ![Image : set up email report](img/manage_email_report.png)
 
-    2. Personnalisation des paramètres d'envoi
+2. Personnalisation des paramètres d'envoi
+   
 	        -Définissez la fréquence d'envoi selon vos besoins :
 	 
 	      	  	○ Chaque semaine
@@ -173,7 +175,7 @@ Superset offre la possibilité de configurer des rapports automatiques par e-mai
 
   ![Image : Fréquence d'envoi des tableaux de bord](img/frequence_envoi_report.png)
 
-    3. Sélectionnez également :
+3. Sélectionnez également :
     
     - Le jour de la semaine où le rapport doit être envoyé (par exemple, lundi ou vendredi).
     - L'heure exacte à laquelle l'e-mail sera envoyé.

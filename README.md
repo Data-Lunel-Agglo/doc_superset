@@ -1,5 +1,3 @@
-# doc_superset
-
 # 1- Comment accéder à superset ?
 
 Afin d'utiliser Superset, les utilisateurs doivent suivre une procédure de création de compte et s'assurer d'avoir des identifiants valides

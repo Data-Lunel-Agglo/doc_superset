@@ -3,7 +3,9 @@
 # 1- Comment accéder à superset ?
 
 Afin d'utiliser Superset, les utilisateurs doivent suivre une procédure de création de compte et s'assurer d'avoir des identifiants valides
+
 ## Création de compte
+
 Pour demander un accès :
 	• Envoyez un e-mail à l'adresse suivante :
 	[sig@lunelagglo.fr](mailto:sig@lunelagglo.fr)
@@ -14,10 +16,10 @@ Pour demander un accès :
 ⚠️ Assurez-vous que toutes les informations fournies sont exactes pour éviter tout retard dans le processus.
 
 ## Connexion à Superset
+
 Une fois votre compte créé :
 
     •  Copiez-collez l'URL suivante dans votre navigateur : [https://observatoire.lunelagglo.fr/](https://observatoire.lunelagglo.fr/)
-    
     •  Entrez votre identifiant et mot de passe. Veillez à respecter les majuscules et minuscules.
 
 ![Image : Connexion superset](img/connexion_superset.png)
@@ -46,12 +48,9 @@ Une section affichant les tableaux de bord récemment consultés ou modifiés po
 
 Cette section affiche les graphiques récemment modifiés ou ajoutés par les administrateurs. Les utilisateurs peuvent les consulter pour visualiser les dernières mises à jour et analyses préparées.
 
- 
 # 3- Exemple de structure d'un tableau de bord :
 
-
 ![Image : Exemple d'un tableau de bord](img/tableau_de_bord.png)
-
 
 	1- Menu de navigation
 	2- Filtres
@@ -64,7 +63,6 @@ Le menu de navigation de Superset est l'élément principal qui permet aux utili
 
     • Cliquez sur le bouton "Dashboard" de le menu de navigation.
     • Cela vous redirigera vers la liste de tous les tableaux de bord disponibles.
-
 
 ![Image : Menu de navigation](img/menu_navigation.png)
 
@@ -172,7 +170,7 @@ Superset offre la possibilité de configurer des rapports automatiques par e-mai
   ![Image : Fréquence d'envoi des tableaux de bord](img/frequence_envoi_report.png)
 
     3. Sélectionnez également :
-	    ○ Le jour de la semaine où le rapport doit être envoyé (par exemple, lundi ou vendredi).
-            ○ L'heure exacte à laquelle l'e-mail sera envoyé.
+    ○ Le jour de la semaine où le rapport doit être envoyé (par exemple, lundi ou vendredi).
+    ○ L'heure exacte à laquelle l'e-mail sera envoyé.
 
   ![Image : Planifier l'envoi du tableau de bord](img/schedule_email_report.png)

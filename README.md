@@ -5,9 +5,7 @@ Afin d'utiliser Superset, les utilisateurs doivent suivre une procédure de cré
 ## Création de compte
 
 Pour demander un accès :
-	• Envoyez un e-mail à l'adresse suivante :
-	[sig@lunelagglo.fr](mailto:sig@lunelagglo.fr)
-	
+	• Envoyez un e-mail à l'adresse suivante : [sig@lunelagglo.fr](mailto:sig@lunelagglo.fr)
 	• Un formulaire de création de compte vous sera transmis par retour de mail.
 	• Complétez le formulaire avec soin et retournez-le par e-mail à la même adresse.
 	

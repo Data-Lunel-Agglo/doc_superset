@@ -61,8 +61,9 @@ Cette section affiche les graphiques récemment modifiés ou ajoutés par les ad
 ## 1) Menu de navigation : 
 Le menu de navigation de Superset est l'élément principal qui permet aux utilisateurs de se déplacer dans l'application et d'accéder rapidement à leurs outils et fonctionnalités préférés.
 
-    • Cliquez sur le bouton "Dashboard" de le menu de navigation.
-    • Cela vous redirigera vers la liste de tous les tableaux de bord disponibles.
+-Cliquez sur le bouton "Dashboard" de le menu de navigation.
+
+-Cela vous redirigera vers la liste de tous les tableaux de bord disponibles.
 
 ![Image : Menu de navigation](img/menu_navigation.png)
 
@@ -133,14 +134,14 @@ Les onglets principaux permettent de diviser le tableau de bord en sections. Cha
 ### Téléchargement des graphiques et tableaux de bord :
 Superset permet de télécharger non seulement les graphiques individuels, mais également les tableaux de bord complets. Voici les étapes :
 
-    • Télécharger un graphique individuel :
+Télécharger un graphique individuel :
 	   1. Cliquez sur le menu d'action des graphiques.
 	   2. Sélectionnez Télécharger.
        3.Choisissez le format souhaité (par exemple, CSV ou PNG).
 
   ![Image : Télécharger un graphique](img/telecharger_graphique.png)
 
-    • Télécharger un tableau de bord complet :
+Télécharger un tableau de bord complet :
 	   1. Cliquez sur le menu d'action du tableau de bord.
 	   2. Sélectionnez l'option Télécharger.
 	   3. Choisissez le format : PDF ou image JPEG.

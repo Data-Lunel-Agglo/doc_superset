@@ -161,6 +161,7 @@ Superset offre la possibilité de configurer des rapports automatiques par e-mai
 
     2. Personnalisation des paramètres d'envoi
 	        -Définissez la fréquence d'envoi selon vos besoins :
+	 
 	      	  	○ Chaque semaine
 		        ○ Chaque mois
 		        ○ Chaque jour
@@ -170,7 +171,8 @@ Superset offre la possibilité de configurer des rapports automatiques par e-mai
   ![Image : Fréquence d'envoi des tableaux de bord](img/frequence_envoi_report.png)
 
     3. Sélectionnez également :
-    ○ Le jour de la semaine où le rapport doit être envoyé (par exemple, lundi ou vendredi).
-    ○ L'heure exacte à laquelle l'e-mail sera envoyé.
+    
+    - Le jour de la semaine où le rapport doit être envoyé (par exemple, lundi ou vendredi).
+    - L'heure exacte à laquelle l'e-mail sera envoyé.
 
   ![Image : Planifier l'envoi du tableau de bord](img/schedule_email_report.png)

@@ -16,7 +16,10 @@ Pour demander un accès :
 ## Connexion à Superset
 Une fois votre compte créé :
 
-    •  Copiez-collez l'URL suivante dans votre navigateur : [https://observatoire.lunelagglo.fr](https://observatoire.lunelagglo.fr)
+    •  Copiez-collez l'URL suivante dans votre navigateur :
+    
+    [https://observatoire.lunelagglo.fr/](https://observatoire.lunelagglo.fr/)
+    
     •  Entrez votre identifiant et mot de passe. Veillez à respecter les majuscules et minuscules.
 
 ![Image : Connexion superset](img/connexion_superset.png)
@@ -173,6 +176,6 @@ Superset offre la possibilité de configurer des rapports automatiques par e-mai
 
     3. Sélectionnez également :
 	    ○ Le jour de la semaine où le rapport doit être envoyé (par exemple, lundi ou vendredi).
-             ○ L'heure exacte à laquelle l'e-mail sera envoyé.
+         ○ L'heure exacte à laquelle l'e-mail sera envoyé.
 
   ![Image : Planifier l'envoi du tableau de bord](img/schedule_email_report.png)

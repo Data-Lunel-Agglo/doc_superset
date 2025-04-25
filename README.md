@@ -138,7 +138,7 @@ Télécharger un graphique individuel :
 
 	   1. Cliquez sur le menu d'action des graphiques.
 	   2. Sélectionnez Télécharger.
-        3.Choisissez le format souhaité (par exemple, CSV ou PNG).
+           3.Choisissez le format souhaité (par exemple, CSV ou PNG).
 
   ![Image : Télécharger un graphique](img/telecharger_graphique.png)
 
@@ -147,7 +147,7 @@ Télécharger un tableau de bord complet :
 	   1. Cliquez sur le menu d'action du tableau de bord.
 	   2. Sélectionnez l'option Télécharger.
 	   3. Choisissez le format : PDF ou image JPEG.
-        4. Le fichier téléchargé contiendra l'intégralité du tableau de bord pour une consultation ou une utilisation ultérieure.
+           4. Le fichier téléchargé contiendra l'intégralité du tableau de bord pour une consultation ou une utilisation ultérieure.
 
   ![Image : Télécharger un tableau de bord](img/telecharger_dashboard.png)
 

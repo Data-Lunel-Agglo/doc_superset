@@ -97,11 +97,11 @@ Afin d'appliquer vos sélections, cliquez sur le bouton **APPLIQUER LES FILTRES*
 ### Application des Filtres et Impact sur les Graphiques :
 Lorsqu'un filtre est appliqué, il est important de noter que son effet dépend des graphiques associés. Certains graphiques afficheront les données filtrées uniquement si le filtre leur est appliqué. Voici comment cela se manifeste :
 
- -     Si 1 apparaît, cela signifie qu'un filtre est appliqué à ce graphique.
+-Si 1 apparaît, cela signifie qu'un filtre est appliqué à ce graphique.
 
   ![Image : Appliquer un seul filtre](img/filtre_applique_1.png)
 
-  -     Si 2 apparaît, cela indique que deux filtres sont appliqués.
+-Si 2 apparaît, cela indique que deux filtres sont appliqués.
 
   ![Image : Appliquer deux filtres](img/filtre_applique_2.png)
 
@@ -136,9 +136,9 @@ Superset permet de télécharger non seulement les graphiques individuels, mais 
 
 Télécharger un graphique individuel :
 
-	   1. Cliquez sur le menu d'action des graphiques.
-	   2. Sélectionnez Télécharger.
-           3.Choisissez le format souhaité (par exemple, CSV ou PNG).
+ 1. Cliquez sur le menu d'action des graphiques.
+ 2. Sélectionnez Télécharger.
+ 3.Choisissez le format souhaité (par exemple, CSV ou PNG).
 
   ![Image : Télécharger un graphique](img/telecharger_graphique.png)
 
@@ -164,20 +164,20 @@ Superset offre la possibilité de configurer des rapports automatiques par e-mai
   ![Image : set up email report](img/manage_email_report.png)
 
 2. Personnalisation des paramètres d'envoi
-   
-	        -Définissez la fréquence d'envoi selon vos besoins :
+
+-Définissez la fréquence d'envoi selon vos besoins :
 	 
-	         ○ Chaque semaine
-		        ○ Chaque mois
-		        ○ Chaque jour
-		        ○ Chaque année
-		 ○ Chaque heure
+ ○ Chaque semaine
+ ○ Chaque mois
+ ○ Chaque jour
+ ○ Chaque année
+ ○ Chaque heure
 
   ![Image : Fréquence d'envoi des tableaux de bord](img/frequence_envoi_report.png)
 
 3. Sélectionnez également :
     
-    - Le jour de la semaine où le rapport doit être envoyé (par exemple, lundi ou vendredi).
- - L'heure exacte à laquelle l'e-mail sera envoyé.
+- Le jour de la semaine où le rapport doit être envoyé (par exemple, lundi ou vendredi).
+- L'heure exacte à laquelle l'e-mail sera envoyé.
 
   ![Image : Planifier l'envoi du tableau de bord](img/schedule_email_report.png)

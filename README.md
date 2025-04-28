@@ -71,6 +71,7 @@ Le menu de navigation de Superset est l'élément principal qui permet aux utili
 </br>
 
 ### Rechercher un tableau de bord spécifique : 
+
 Utilisez la barre de recherche située en haut de la page des tableaux de bord pour trouver celui qui vous intéresse.
 Vous pouvez affiner votre recherche en utilisant différents critères (Nom, Etat, Propriétaire, Favori, Certified, Modifié)
 
@@ -79,6 +80,7 @@ Vous pouvez affiner votre recherche en utilisant différents critères (Nom, Eta
 </br>
 
 ## 2) Filtres : 
+
 Superset propose des filtres interactifs pour explorer les données de manière ciblée. Vous pouvez facilement sélectionner une année et une commune spécifiques afin de visualiser les graphiques et analyses correspondants.
 
 ![Image : Filtre par année](img/filtre_annee.png)
@@ -96,6 +98,7 @@ Afin d'appliquer vos sélections, cliquez sur le bouton **APPLIQUER LES FILTRES*
 </br>
 
 ### Application des Filtres et Impact sur les Graphiques :
+
 Lorsqu'un filtre est appliqué, il est important de noter que son effet dépend des graphiques associés. Certains graphiques afficheront les données filtrées uniquement si le filtre leur est appliqué. Voici comment cela se manifeste :
 
 * Si 1 apparaît, cela signifie qu'un filtre est appliqué à ce graphique.
@@ -111,11 +114,13 @@ Lorsqu'un filtre est appliqué, il est important de noter que son effet dépend 
 </br>
 
 ## 3) Titre du tableau de bord : 
+
 Le titre du tableau de bord permet aux utilisateurs de rapidement identifier le contenu ou l'objectif du tableau.
 
 </br>
 
 ## 4) Onglets principaux :
+
 Les onglets principaux permettent de diviser le tableau de bord en sections. Chaque onglet peut contenir des graphiques spécifiques ou des catégories d'analyses.
 
 </br>
@@ -133,6 +138,7 @@ Les onglets principaux permettent de diviser le tableau de bord en sections. Cha
 </br>
 
 ### Téléchargement des graphiques et tableaux de bord :
+
 Superset permet de télécharger non seulement les graphiques individuels, mais également les tableaux de bord complets. Voici les étapes :
 
 **Télécharger un graphique individuel :**
@@ -155,6 +161,7 @@ Superset permet de télécharger non seulement les graphiques individuels, mais 
   </br>
 
 ### Gérer les rapports par e-mail :
+
 Superset offre la possibilité de configurer des rapports automatiques par e-mail via l'option Manage Email Report, qui se trouve dans le menu d'actions du tableau de bord. Cette fonctionnalité permet de programmer l'envoi régulier des tableaux de bord à des destinataires spécifiques.
 
  **1. Set up an email report :**
@@ -171,7 +178,6 @@ Superset offre la possibilité de configurer des rapports automatiques par e-mai
      - Chaque jour
      - Chaque année
      - Chaque heure
-	 
 
   ![Image : Fréquence d'envoi des tableaux de bord](img/frequence_envoi_report.png)
 

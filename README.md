@@ -166,11 +166,11 @@ Superset offre la possibilité de configurer des rapports automatiques par e-mai
 2. Personnalisation des paramètres d'envoi 
 
 * Définissez la fréquence d'envoi selon vos besoins :
- - Chaque semaine
- - Chaque mois
- - Chaque jour
- - Chaque année
- - Chaque heure
+     - Chaque semaine
+     - Chaque mois
+     - Chaque jour
+     - Chaque année
+     - Chaque heure
 	 
 
   ![Image : Fréquence d'envoi des tableaux de bord](img/frequence_envoi_report.png)

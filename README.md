@@ -12,7 +12,7 @@ Pour demander un accès :
 
 -Complétez le formulaire avec soin et retournez-le par e-mail à la même adresse.
 	
-⚠️ Assurez-vous que toutes les informations fournies sont exactes pour éviter tout retard dans le processus.
+> ⚠️ Assurez-vous que toutes les informations fournies sont exactes pour éviter tout retard dans le processus.
 
 ## Connexion à Superset
 
@@ -144,10 +144,13 @@ Télécharger un graphique individuel :
 
 Télécharger un tableau de bord complet :
 
-	   1. Cliquez sur le menu d'action du tableau de bord.
-	   2. Sélectionnez l'option Télécharger.
-	   3. Choisissez le format : PDF ou image JPEG.
-           4. Le fichier téléchargé contiendra l'intégralité du tableau de bord pour une consultation ou une utilisation ultérieure.
+ 1. Cliquez sur le menu d'action du tableau de bord.
+    
+ 3. Sélectionnez l'option Télécharger.
+    
+ 5. Choisissez le format : PDF ou image JPEG.
+    
+ 7. Le fichier téléchargé contiendra l'intégralité du tableau de bord pour une consultation ou une utilisation ultérieure.
 
   ![Image : Télécharger un tableau de bord](img/telecharger_dashboard.png)
 

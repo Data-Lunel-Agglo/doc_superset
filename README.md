@@ -53,11 +53,11 @@ Cette section affiche les graphiques récemment modifiés ou ajoutés par les ad
 
 ![Image : Exemple d'un tableau de bord](img/tableau_de_bord.png)
 
-	1- Menu de navigation
-	2- Filtres
-	3- Titre du tableau de bord
-	4- Onglets principaux
-	5- Menus d'actions
+1- Menu de navigation
+2- Filtres
+3- Titre du tableau de bord
+4- Onglets principaux
+5- Menus d'actions
 
 ## 1) Menu de navigation : 
 Le menu de navigation de Superset est l'élément principal qui permet aux utilisateurs de se déplacer dans l'application et d'accéder rapidement à leurs outils et fonctionnalités préférés.
@@ -98,11 +98,11 @@ Afin d'appliquer vos sélections, cliquez sur le bouton **APPLIQUER LES FILTRES*
 ### Application des Filtres et Impact sur les Graphiques :
 Lorsqu'un filtre est appliqué, il est important de noter que son effet dépend des graphiques associés. Certains graphiques afficheront les données filtrées uniquement si le filtre leur est appliqué. Voici comment cela se manifeste :
 
--Si 1 apparaît, cela signifie qu'un filtre est appliqué à ce graphique.
+* Si 1 apparaît, cela signifie qu'un filtre est appliqué à ce graphique.
 
   ![Image : Appliquer un seul filtre](img/filtre_applique_1.png)
 
--Si 2 apparaît, cela indique que deux filtres sont appliqués.
+* Si 2 apparaît, cela indique que deux filtres sont appliqués.
 
   ![Image : Appliquer deux filtres](img/filtre_applique_2.png)
 
@@ -169,17 +169,13 @@ Superset offre la possibilité de configurer des rapports automatiques par e-mai
 
 2. Personnalisation des paramètres d'envoi
 
--Définissez la fréquence d'envoi selon vos besoins :
+Définissez la fréquence d'envoi selon vos besoins :
+* Chaque semaine
+* Chaque mois
+* Chaque jour
+* Chaque année
+* Chaque heure
 	 
- ○ Chaque semaine
- 
- ○ Chaque mois
- 
- ○ Chaque jour
- 
- ○ Chaque année
- 
- ○ Chaque heure
 
   ![Image : Fréquence d'envoi des tableaux de bord](img/frequence_envoi_report.png)
 

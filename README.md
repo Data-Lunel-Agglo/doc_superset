@@ -62,9 +62,9 @@ Cette section affiche les graphiques récemment modifiés ou ajoutés par les ad
 ## 1) Menu de navigation : 
 Le menu de navigation de Superset est l'élément principal qui permet aux utilisateurs de se déplacer dans l'application et d'accéder rapidement à leurs outils et fonctionnalités préférés.
 
--Cliquez sur le bouton "Dashboard" de le menu de navigation.
+* Cliquez sur le bouton "Dashboard" de le menu de navigation.
 
--Cela vous redirigera vers la liste de tous les tableaux de bord disponibles.
+* Cela vous redirigera vers la liste de tous les tableaux de bord disponibles.
 
 ![Image : Menu de navigation](img/menu_navigation.png)
 
@@ -139,7 +139,7 @@ Télécharger un graphique individuel :
 
  1. Cliquez sur le menu d'action des graphiques.
  2. Sélectionnez Télécharger.
- 3.Choisissez le format souhaité (par exemple, CSV ou PNG).
+ 3. Choisissez le format souhaité (par exemple, CSV ou PNG).
 
   ![Image : Télécharger un graphique](img/telecharger_graphique.png)
 
@@ -162,14 +162,15 @@ Superset offre la possibilité de configurer des rapports automatiques par e-mai
 
  1. Set up an email report
 
--Cliquez sur Manage email report dans le menu d'actions du tableau de bord.
--Choisissez l'option Set up an email report.
+* Cliquez sur Manage email report dans le menu d'actions du tableau de bord.
+* Choisissez l'option Set up an email report.
 
   ![Image : set up email report](img/manage_email_report.png)
 
 2. Personnalisation des paramètres d'envoi
 
 Définissez la fréquence d'envoi selon vos besoins :
+
 * Chaque semaine
 * Chaque mois
 * Chaque jour
@@ -180,8 +181,8 @@ Définissez la fréquence d'envoi selon vos besoins :
   ![Image : Fréquence d'envoi des tableaux de bord](img/frequence_envoi_report.png)
 
 3. Sélectionnez également :
-    
-- Le jour de la semaine où le rapport doit être envoyé (par exemple, lundi ou vendredi).
-- L'heure exacte à laquelle l'e-mail sera envoyé.
+
+* Le jour de la semaine où le rapport doit être envoyé (par exemple, lundi ou vendredi).
+* L'heure exacte à laquelle l'e-mail sera envoyé.
 
   ![Image : Planifier l'envoi du tableau de bord](img/schedule_email_report.png)

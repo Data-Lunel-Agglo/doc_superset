@@ -11,16 +11,17 @@ Pour demander un accès :
 * Un formulaire de création de compte vous sera transmis par retour de mail.
 
 * Complétez le formulaire avec soin et retournez-le par e-mail à la même adresse.
-	
+
+ 
 > ⚠️ Assurez-vous que toutes les informations fournies sont exactes pour éviter tout retard dans le processus.
 
 ## Connexion à Superset
 
 Une fois votre compte créé :
 
--Copiez-collez l'URL suivante dans votre navigateur : [https://observatoire.lunelagglo.fr/](https://observatoire.lunelagglo.fr/)
+* Copiez-collez l'URL suivante dans votre navigateur : [https://observatoire.lunelagglo.fr/](https://observatoire.lunelagglo.fr/)
 
--Entrez votre identifiant et mot de passe. Veillez à respecter les majuscules et minuscules.
+* Entrez votre identifiant et mot de passe. Veillez à respecter les majuscules et minuscules.
 
 ![Image : Connexion superset](img/connexion_superset.png)
 

@@ -54,9 +54,13 @@ Cette section affiche les graphiques récemment modifiés ou ajoutés par les ad
 ![Image : Exemple d'un tableau de bord](img/tableau_de_bord.png)
 
 1- Menu de navigation
+
 2- Filtres
+
 3- Titre du tableau de bord
+
 4- Onglets principaux
+
 5- Menus d'actions
 
 ## 1) Menu de navigation : 

@@ -35,11 +35,11 @@ Une fois connecté à Superset, l'utilisateur est accueilli par une interface cl
 
 ## 1) Barre de navigation
 
-**Bouton "Dashboards" :** Placé à côté du logo, il redirige directement vers la liste des tableaux de bord disponibles.
+* **Bouton "Dashboards" :** Placé à côté du logo, il redirige directement vers la liste des tableaux de bord disponibles.
 
-**Paramètres :** Situé à droite, ce bouton donne accès aux options de configuration utilisateur ou aux paramètres avancés de l'application.
+* **Paramètres :** Situé à droite, ce bouton donne accès aux options de configuration utilisateur ou aux paramètres avancés de l'application.
 
-**Langue :** Juste à côté des paramètres, cet élément permet de sélectionner la langue d'affichage de l'interface en fonction des préférences de l'utilisateur.
+* **Langue :** Juste à côté des paramètres, cet élément permet de sélectionner la langue d'affichage de l'interface en fonction des préférences de l'utilisateur.
 
 ## 2) Tableaux de bord récents
 
@@ -53,21 +53,17 @@ Cette section affiche les graphiques récemment modifiés ou ajoutés par les ad
 
 ![Image : Exemple d'un tableau de bord](img/tableau_de_bord.png)
 
-1- Menu de navigation
+1. Menu de navigation
+2. Filtres
+3. Titre du tableau de bord
+4. Onglets principaux
+5. Menus d'actions
 
-2- Filtres
-
-3- Titre du tableau de bord
-
-4- Onglets principaux
-
-5- Menus d'actions
 
 ## 1) Menu de navigation : 
 Le menu de navigation de Superset est l'élément principal qui permet aux utilisateurs de se déplacer dans l'application et d'accéder rapidement à leurs outils et fonctionnalités préférés.
 
 * Cliquez sur le bouton "Dashboard" de le menu de navigation.
-
 * Cela vous redirigera vers la liste de tous les tableaux de bord disponibles.
 
 ![Image : Menu de navigation](img/menu_navigation.png)
@@ -161,22 +157,20 @@ Télécharger un tableau de bord complet :
 ### Gérer les rapports par e-mail :
 Superset offre la possibilité de configurer des rapports automatiques par e-mail via l'option Manage Email Report, qui se trouve dans le menu d'actions du tableau de bord. Cette fonctionnalité permet de programmer l'envoi régulier des tableaux de bord à des destinataires spécifiques.
 
- 1. Set up an email report
-
+ 1. Set up an email report :
 * Cliquez sur Manage email report dans le menu d'actions du tableau de bord.
 * Choisissez l'option Set up an email report.
 
   ![Image : set up email report](img/manage_email_report.png)
 
-2. Personnalisation des paramètres d'envoi
+2. Personnalisation des paramètres d'envoi 
 
-Définissez la fréquence d'envoi selon vos besoins :
-
-* Chaque semaine
-* Chaque mois
-* Chaque jour
-* Chaque année
-* Chaque heure
+* Définissez la fréquence d'envoi selon vos besoins :
+ - Chaque semaine
+ - Chaque mois
+ - Chaque jour
+ - Chaque année
+ - Chaque heure
 	 
 
   ![Image : Fréquence d'envoi des tableaux de bord](img/frequence_envoi_report.png)

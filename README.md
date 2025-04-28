@@ -150,12 +150,9 @@ Télécharger un graphique individuel :
 Télécharger un tableau de bord complet :
 
  1. Cliquez sur le menu d'action du tableau de bord.
-    
- 3. Sélectionnez l'option Télécharger.
-    
- 5. Choisissez le format : PDF ou image JPEG.
-    
- 7. Le fichier téléchargé contiendra l'intégralité du tableau de bord pour une consultation ou une utilisation ultérieure.
+ 2. Sélectionnez l'option Télécharger.
+ 3. Choisissez le format : PDF ou image JPEG.
+ 4. Le fichier téléchargé contiendra l'intégralité du tableau de bord pour une consultation ou une utilisation ultérieure.
 
   ![Image : Télécharger un tableau de bord](img/telecharger_dashboard.png)
 

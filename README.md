@@ -157,9 +157,9 @@ Télécharger un tableau de bord complet :
 Superset offre la possibilité de configurer des rapports automatiques par e-mail via l'option Manage Email Report, qui se trouve dans le menu d'actions du tableau de bord. Cette fonctionnalité permet de programmer l'envoi régulier des tableaux de bord à des destinataires spécifiques.
 
  1. Set up an email report
-    
-	        -Cliquez sur Manage email report dans le menu d'actions du tableau de bord.
-	-Choisissez l'option Set up an email report.
+
+-Cliquez sur Manage email report dans le menu d'actions du tableau de bord.
+-Choisissez l'option Set up an email report.
 
   ![Image : set up email report](img/manage_email_report.png)
 
@@ -168,9 +168,13 @@ Superset offre la possibilité de configurer des rapports automatiques par e-mai
 -Définissez la fréquence d'envoi selon vos besoins :
 	 
  ○ Chaque semaine
+ 
  ○ Chaque mois
+ 
  ○ Chaque jour
+ 
  ○ Chaque année
+ 
  ○ Chaque heure
 
   ![Image : Fréquence d'envoi des tableaux de bord](img/frequence_envoi_report.png)
